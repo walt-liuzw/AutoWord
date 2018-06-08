@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoWord", "AutoWord\AutoWord.csproj", "{417A0A85-6840-4AFA-8CEE-88C84C58D155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{417A0A85-6840-4AFA-8CEE-88C84C58D155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417A0A85-6840-4AFA-8CEE-88C84C58D155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417A0A85-6840-4AFA-8CEE-88C84C58D155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417A0A85-6840-4AFA-8CEE-88C84C58D155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2445B5A2-83F5-4284-AD01-981CC905AE71}
+	EndGlobalSection
+EndGlobal

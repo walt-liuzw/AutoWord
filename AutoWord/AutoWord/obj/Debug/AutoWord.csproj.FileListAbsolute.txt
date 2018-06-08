@@ -1,0 +1,11 @@
+G:\AutoWord\AutoWord\AutoWord\bin\Debug\AutoWord.exe.config
+G:\AutoWord\AutoWord\AutoWord\bin\Debug\AutoWord.exe
+G:\AutoWord\AutoWord\AutoWord\bin\Debug\AutoWord.pdb
+G:\AutoWord\AutoWord\AutoWord\obj\Debug\AutoWord.csprojResolveAssemblyReference.cache
+G:\AutoWord\AutoWord\AutoWord\obj\Debug\AutoWord.MainFormUI.resources
+G:\AutoWord\AutoWord\AutoWord\obj\Debug\AutoWord.Properties.Resources.resources
+G:\AutoWord\AutoWord\AutoWord\obj\Debug\AutoWord.csproj.GenerateResource.Cache
+G:\AutoWord\AutoWord\AutoWord\obj\Debug\AutoWord.csproj.CoreCompileInputs.cache
+G:\AutoWord\AutoWord\AutoWord\obj\Debug\AutoWord.exe
+G:\AutoWord\AutoWord\AutoWord\obj\Debug\AutoWord.pdb
+G:\AutoWord\AutoWord\AutoWord\bin\Debug\Xceed.Words.NET.dll
